@@ -1,0 +1,17 @@
+/**
+	Author: Neil K
+	Date: 18/5/2014
+	Desc: Application uses segmentation and masking in order to create a green screen
+
+*/
+
+Randomly written one morning to see if green a green screen would work how I thought a green screen would. 
+Results are good but application of filters would be a good choice or some image segmentation.
+
+Walkthrough of the project
+
+Load image
+Convert to ycbcr
+Threshold green screen
+Mask 
+Display 
